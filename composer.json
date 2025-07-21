@@ -1,0 +1,13 @@
+{
+    "name": "elimuhub/education-simulator",
+    "autoload": {
+        "psr-4": {
+            "ElimuHub\\": "src/"
+        }
+    },
+    "require": {
+        "firebase/php-jwt": "^6.4",
+        "vlucas/phpdotenv": "^5.5"
+    }
+    
+}
